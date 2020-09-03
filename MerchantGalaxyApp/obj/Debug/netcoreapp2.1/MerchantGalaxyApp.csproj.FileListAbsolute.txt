@@ -1,0 +1,12 @@
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\bin\Debug\netcoreapp2.1\MerchantGalaxyApp.deps.json
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\bin\Debug\netcoreapp2.1\MerchantGalaxyApp.runtimeconfig.json
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\bin\Debug\netcoreapp2.1\MerchantGalaxyApp.runtimeconfig.dev.json
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\bin\Debug\netcoreapp2.1\MerchantGalaxyApp.dll
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\bin\Debug\netcoreapp2.1\MerchantGalaxyApp.pdb
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.csprojAssemblyReference.cache
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.AssemblyInfoInputs.cache
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.AssemblyInfo.cs
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.csproj.CoreCompileInputs.cache
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.dll
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.pdb
+C:\Users\bhooshan_sane\source\repos\merchant-galaxy\MerchantGalaxyApp\obj\Debug\netcoreapp2.1\MerchantGalaxyApp.genruntimeconfig.cache
